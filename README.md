@@ -13,9 +13,9 @@
 
 ```javascript
 const steven = {
-  code: [Javascript, Typescript, GO, HTML, CSS, Python],
-  tools: [React, Redux, Node, Deno, Django, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Next.js],
+  current_learning:[Node.js, Nest.js, Golang]
 
  challenge: "I am constantly in pursuit of knowledge through learning
              and trying various languages, technologies and implementations; "
