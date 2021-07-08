@@ -14,8 +14,8 @@
 ```javascript
 const steven = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Next.js],
-  current_learning:[Node.js, Nest.js, Golang]
+  tools: [React, Redux, MERN stack],
+  
 
  challenge: "I am constantly in pursuit of knowledge through learning
              and trying various languages, technologies and implementations; "
