@@ -14,7 +14,8 @@
 ```javascript
 const steven = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, MERN stack],
+  tools: [React, Redux, Angular, Node, Express],
+  current_learning: 'Node.js micro services',
   
 
  challenge: "I am constantly in pursuit of knowledge through learning
