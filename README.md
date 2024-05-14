@@ -14,8 +14,8 @@
 ```javascript
 const steven = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Angular, Node, Express],
-  current_learning: 'Node.js micro services',
+  tools: [React, Redux, Angular, Node, Express, Koa],
+  current_learning: 'Database optimizations and Bottleneck trouble-shooting',
   
 
  challenge: "I am constantly in pursuit of knowledge through learning
